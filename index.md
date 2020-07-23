@@ -41,7 +41,7 @@ To provide information to and advocate for Shantae soft customers with ISPs and 
 To provide information about aggregate usage and trends on topics relating to account management; and,
 To provide you with access to information or otherwise engage in activities, such as product testing or evaluation for Shantae soft Services.
 With Whom We May Share Your Information
-
+ 
 From time to time, unless we have stated otherwise, we may provide certain information to ISPs and corporate network administrators in order to effectively provide Shantae soft Services to you. For example, in providing support services for our customers, Shantae soft may need to share information about your services, privacy policy and account informatoin with support personnel at ISPs and Shantae soft Service Partners.
 
 In addition, Shantae soft may from time to time retain the services of outside contractors or third parties to provide and/or host online services for its customers. Such parties may provide online maintenance and technical support or perform other services for Shantae soft customers. We require that these contractors keep the personal information of customers secure and confidential. We also require that these parties use your personal and account information only your behalf and/or to provide direct support for Shantae soft Services.  If you prefer that we not provide your information to such parties, you may let us know by using one of the methods described in this policy.
